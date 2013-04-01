@@ -6,6 +6,7 @@ development:
   pool: 5
   username: root
   password:
+  host: 127.0.0.1
 
 test:
   adapter: mysql2
