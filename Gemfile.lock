@@ -108,7 +108,7 @@ DEPENDENCIES
   execjs
   jquery-rails
   mysql2
-  pg (= 0.12.2)
+  pg
   rails (= 3.2.1)
   sass-rails (~> 3.2.5)
   uglifier (>= 1.2.3)
